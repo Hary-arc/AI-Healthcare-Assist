@@ -2,9 +2,7 @@
 
 ## Prerequisite: Install Pipenv
 Follow the official Pipenv installation guide to set up Pipenv on your system:  
-[Install Pipenv Documentation](https://pipenv.pypa.io/en/latest/installation.html)
 
----
 
 ## Steps to Set Up the Environment
 
